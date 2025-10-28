@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://o4af.com/wp-content/uploads/2020/05/Harward-University-logo.jpg">
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcm-3KCkYThEdW4FaSxDVOISY_thFfTWKa7w&s">
     <img 
-      src="https://o4af.com/wp-content/uploads/2020/05/Harward-University-logo.jpg" 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcm-3KCkYThEdW4FaSxDVOISY_thFfTWKa7w&s" 
       alt="Logo" 
       style="width:100%; height:1 px; object-fit:cover; border-radius:10px;"
     >
