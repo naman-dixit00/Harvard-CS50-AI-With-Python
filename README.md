@@ -1,12 +1,4 @@
-<p align="center">
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcm-3KCkYThEdW4FaSxDVOISY_thFfTWKa7w&s">
-    <img 
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcm-3KCkYThEdW4FaSxDVOISY_thFfTWKa7w&s" 
-      alt="Logo" 
-      style="width:100%; height:1 px; object-fit:cover; border-radius:10px;"
-    >
-  </a>
-</p>
+
 # Harvard's CS50 Course - Introduction to AI with Python
 
 My assignments for CS50's Introduction to Artificial Intelligence with Python. <br/>
