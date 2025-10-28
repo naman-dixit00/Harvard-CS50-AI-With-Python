@@ -3,7 +3,7 @@
     <img 
       src="https://o4af.com/wp-content/uploads/2020/05/Harward-University-logo.jpg" 
       alt="Logo" 
-      style="width:100%; height:60 px; object-fit:cover; border-radius:10px;"
+      style="width:100%; height:10 px; object-fit:cover; border-radius:10px;"
     >
   </a>
 </p>
