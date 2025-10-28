@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://o4af.com/wp-content/uploads/2020/05/Harward-University-logo.jpg">
+    <img 
+      src="https://o4af.com/wp-content/uploads/2020/05/Harward-University-logo.jpg" 
+      alt="Logo" 
+      style="width:100%; height:60 px; object-fit:cover; border-radius:10px;"
+    >
+  </a>
+</p>
 # Harvard's CS50 Course - Introduction to AI with Python
 
 My assignments for CS50's Introduction to Artificial Intelligence with Python. <br/>
